@@ -3,7 +3,7 @@
 VoiceChat is a simple VoIP application written in Java that supports uPnP, conversations with multiple users and basic compression with comfort noise. 
 
 ## Download
-[Download from my site](http://downloads.adolfintel.com/geth.php?r=voicechat-bin) (Requires [Java](http://java.com))
+[Download from my site](http://downloads.fdossena.com/geth.php?r=voicechat-bin) (Requires [Java](http://java.com))
 
 ## Usage
 If you want to play with the code, just import the projects into Netbeans
@@ -12,8 +12,8 @@ If you want to play with the code, just import the projects into Netbeans
 Multiplaform, Java SE 7
 
 ## Screenshots
-![Screenshot](http://adolfintel.com/voip/server1.png)
-![Screenshot](http://adolfintel.com/voip/client1.png)
+![Screenshot](http://fdossena.com/voip/server1.png)
+![Screenshot](http://fdossena.com/voip/client1.png)
 
 ## License
 Copyright (C) 2015 Federico Dossena
